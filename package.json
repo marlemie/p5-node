@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "p5": "^0.9.0"
+    "npx": "^10.2.0",
+    "p5": "^0.9.0",
+    "parcel": "^1.12.3"
   }
 }
